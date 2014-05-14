@@ -1,0 +1,18 @@
+{
+  "name": "node-perf",
+  "version": "0.0.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oliver Zhou <oliverzy@gmail.com> (https://github.com/oliverzy)",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "bluebird": "~1.1.1",
+    "measured": "~0.1.5",
+    "async": "~0.2.10",
+    "progress": "~1.1.5"
+  },
+  "description": "Node.js load test and performance measurement tool"
+}
